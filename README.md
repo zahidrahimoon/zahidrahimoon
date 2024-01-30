@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zahidrahimoon&label=Profile%20views&color=0e75b6&style=flat" alt="zahidrahimoon" /> </p>
 
-- 🌱 I’m currently learning React **library**
+- 🌱 I’m currently learning React **Js library**
 
 - 💬 Ask me about **Html CSS javascript**
 
