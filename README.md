@@ -28,7 +28,7 @@
 <p align="left">
     <img src="https://img.shields.io/badge/HTML-80%25-orange"> 
     <img src="https://img.shields.io/badge/CSS-70%25-blue"> 
-    <img src="https://img.shields.io/badge/JavaScript-60%25-yellow"> 
+    <img src="https://img.shields.io/badge/JavaScript-50%25-yellow"> 
     <img src="https://img.shields.io/badge/React-30%25-blueviolet"> 
 </p>
 
