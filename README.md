@@ -5,10 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zahidrahimoon&label=Profile%20views&color=0e75b6&style=flat" alt="zahidrahimoon" /> </p>
 
-- 🌱 I’m currently learning React **Js library**
-
-- 💬 Ask me about **Html CSS javascript**
-
+- 🌱 I’m currently learning MongoDB **Data Base**
 - 💼 My portfolio [zahidrahimonn](https://zahidrahimoon.netlify.app/)
 </p>
 
@@ -36,8 +33,8 @@
 <p align="left">
     <img src="https://img.shields.io/badge/HTML-80%25-orange"> 
     <img src="https://img.shields.io/badge/CSS-70%25-blue"> 
-    <img src="https://img.shields.io/badge/JavaScript-50%25-yellow"> 
-    <img src="https://img.shields.io/badge/React-30%25-blueviolet"> 
+    <img src="https://img.shields.io/badge/JavaScript-60%25-yellow"> 
+    <img src="https://img.shields.io/badge/React-50%25-blueviolet"> 
 </p>
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=zahidrahimoon&show_icons=true&locale=en&layout=compact" alt="zahidrahimoon" /></p>
