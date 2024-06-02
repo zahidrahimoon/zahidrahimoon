@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zahidrahimoon&label=Profile%20views&color=0e75b6&style=flat" alt="zahidrahimoon" /> </p>
 
-- 🌱 I’m currently learning MongoDB **Data Base**
+- 🌱 I’m currently learning MERN Stack **Web Development**
 - 💼 My portfolio [zahidrahimonn](https://zahidrahimoon.netlify.app/)
 </p>
 
