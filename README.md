@@ -1,7 +1,6 @@
 ![logo](https://github.com/zahidrahimoon/zahidrahimoon/blob/main/mybanner.png)
 <h1 align="center">Hi 👋, I'm Muhammad Zahid</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img align="right" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" alt="coding" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zahidrahimoon&label=Profile%20views&color=0e75b6&style=flat" alt="zahidrahimoon" /> </p>
 
@@ -30,15 +29,6 @@
   <img alt="Language" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img alt="Language" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img alt="Language" src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=amazon-dynamodb&logoColor=white"/>
-</p>
-
-
-<h3 align="left">Skills:</h3>
-<p align="left">
-    <img src="https://img.shields.io/badge/HTML-80%25-orange"> 
-    <img src="https://img.shields.io/badge/CSS-70%25-blue"> 
-    <img src="https://img.shields.io/badge/JavaScript-60%25-yellow"> 
-    <img src="https://img.shields.io/badge/React-50%25-blueviolet"> 
 </p>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=zahidrahimoon&show_icons=true&count_private=true)
