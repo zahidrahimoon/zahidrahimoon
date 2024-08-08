@@ -29,7 +29,10 @@
   <img alt="Language" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img alt="Language" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img alt="Language" src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=amazon-dynamodb&logoColor=white"/>
+  <img alt="Language" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img alt="Language" src="https://img.shields.io/badge/Laravel-E14D43?style=for-the-badge&logo=laravel&logoColor=white"/>
 </p>
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=zahidrahimoon&show_icons=true&count_private=true)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zahidrahimoon&show_icons=true&locale=en&layout=compact" alt="zahidrahimoon" /></p>
