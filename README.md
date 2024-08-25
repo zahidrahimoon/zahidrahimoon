@@ -1,4 +1,4 @@
-![logo](https://github.com/zahidrahimoon/zahidrahimoon/blob/main/mybanner.png)
+![logo](https://github.com/zahidrahimoon/zahidrahimoon/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Muhammad Zahid</h1>
 <h3 align="center">A passionate MERN Stack developer from Pakistan</h3>
 
