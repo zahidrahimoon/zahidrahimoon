@@ -1,5 +1,7 @@
 ![banner](https://github.com/zahidrahimoon/zahidrahimoon/blob/main/banner.png)
 
+---
+
 <h1 align="center" style="font-family: 'Playfair Display', serif;">Hi 👋, I'm Muhammad Zahid</h1>
 <h3 align="center" style="font-family: 'Playfair Display', serif;">A Passionate MERN Stack Developer from Pakistan</h3>
 
@@ -49,19 +51,44 @@
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img alt="Thunder Client" src="https://img.shields.io/badge/Thunder%20Client-5849BE?style=for-the-badge&logo=thunder-client&logoColor=white"/>
+  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img alt="Java Swing" src="https://img.shields.io/badge/Java%20Swing-5382A1?style=for-the-badge&logo=java&logoColor=white"/>
+  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img alt="NetBeans" src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white"/>
+  <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+  <img alt="Dev C++" src="https://img.shields.io/badge/Dev%20C++-003A63?style=for-the-badge&logo=dev-cplusplus&logoColor=white"/>
 </p>
+
 
 ---
 
 ### 🛠️ Stacks:
 
-<p align="center">
-  <img alt="MERN Stack" src="https://img.shields.io/badge/MERN-Stack-20232A?style=for-the-badge&logo=mongodb&logoColor=61DAFB"/>
-  <img alt="PHP Fullstack" src="https://img.shields.io/badge/PHP-Fullstack-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img alt="React Firebase" src="https://img.shields.io/badge/React-Firebase-FullStack-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-Frontend-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-</p>
+<div align="center">
+  <a href="https://www.mongodb.com/mern-stack" target="_blank">
+    <img src="https://img.shields.io/badge/MERN%20Stack-4E535A?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=20232A&label=Stack" alt="MERN Stack"/>
+  </a>
+  <a href="https://www.php.net/" target="_blank">
+    <img src="https://img.shields.io/badge/PHP%20Fullstack-4F5D95?style=for-the-badge&logo=php&logoColor=white&labelColor=20232A&label=Fullstack" alt="PHP Fullstack"/>
+  </a>
+  <a href="https://nextjs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=20232A&label=Framework" alt="Next.js"/>
+  </a>
+  <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://img.shields.io/badge/React%20Firebase-FFCB2B?style=for-the-badge&logo=firebase&logoColor=black&labelColor=20232A&label=Fullstack" alt="React Firebase"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=20232A&label=Frontend" alt="TypeScript"/>
+  </a>
+</div>
+
 
 ---
 
