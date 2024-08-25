@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github"/>
   </a>
 </p>
----
+
 
 ### 🌱 Currently Learning:
 - **MERN Stack Web Development** 
