@@ -1,40 +1,80 @@
-![logo](https://github.com/zahidrahimoon/zahidrahimoon/blob/main/banner.png)
+![banner](https://github.com/zahidrahimoon/zahidrahimoon/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Muhammad Zahid</h1>
-<h3 align="center">A passionate MERN Stack developer from Pakistan</h3>
+<h3 align="center">A passionate MERN Stack Developer from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zahidrahimoon&label=Profile%20views&color=0e75b6&style=flat" alt="zahidrahimoon" /> </p>
-
-- 🌱 I’m currently learning MERN Stack **Web Development**
-- 💼 My portfolio [zahidrahimonn](https://zahidrahimoon.netlify.app/)
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
 <p align="center">
-  <img alt="Language" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img alt="Language" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img alt="Language" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img alt="Language" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
-  <img alt="Language" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img alt="Language" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=black"/>
-  <img alt="Language" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=black"/>
-  <img alt="Language" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img alt="Language" src="https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white"/>
-  <img alt="Language" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img alt="Language" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"/>
-  <img alt="Language" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img alt="Language" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img alt="Language" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img alt="Language" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img alt="Language" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img alt="Language" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img alt="Language" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img alt="Language" src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=amazon-dynamodb&logoColor=white"/>
-  <img alt="Language" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img alt="Language" src="https://img.shields.io/badge/Laravel-E14D43?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://komarev.com/ghpvc/?username=zahidrahimoon&label=Profile%20views&color=0e75b6&style=flat" alt="zahidrahimoon" /> 
+  <img src="https://img.shields.io/github/followers/zahidrahimoon?label=Followers" alt="followers" />
+  <img src="https://img.shields.io/github/stars/zahidrahimoon?label=Stars" alt="stars" />
 </p>
 
+<p align="center">
+  <a href="https://zahidrahimoon.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-%230A66C2.svg?&style=for-the-badge&logo=portfolio&logoColor=white" alt="portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/zahidrahimoon">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+  </a>
+  <a href="https://github.com/zahidrahimoon">
+    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github"/>
+  </a>
+</p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=zahidrahimoon&show_icons=true&count_private=true)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zahidrahimoon&show_icons=true&locale=en&layout=compact" alt="zahidrahimoon" /></p>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=zahidrahimoon&" alt="zahidrahimoon" /></p>
+---
 
+### 🌱 Currently Learning:
+- **MERN Stack Web Development** 
+- Enhancing my knowledge in **TypeScript** and **API Development**
+
+---
+
+### 💻 Languages and Tools:
+
+<p align="center">
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=black"/>
+  <img alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=black"/>
+  <img alt="Stripe" src="https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white"/>
+  <img alt="Material UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"/>
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+</p>
+
+---
+
+### 📈 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zahidrahimoon&show_icons=true&count_private=true&theme=radical" alt="zahidrahimoon stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahidrahimoon&layout=compact&theme=radical" alt="zahidrahimoon languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zahidrahimoon&theme=radical" alt="zahidrahimoon streak"/>
+</p>
+
+---
+
+### 🔥 Contributions:
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zahidrahimoon&bg_color=0d1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true" alt="activity graph" />
+</p>
+
+---
+
+### 🌐 Connect with me:
+<p align="center">
+  <a href="https://linkedin.com/in/zahidrahimoon">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:zahidrahimoon22@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://instagram.com/webdev_with_zahid">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
