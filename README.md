@@ -12,16 +12,19 @@
   <img src="https://img.shields.io/github/stars/zahidrahimoon?label=Stars&style=social" alt="stars" />
 </p>
 
-<p align="center">
-  <a href="https://zahidrahimoon.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-%230A66C2.svg?&style=for-the-badge&logo=portfolio&logoColor=white" alt="portfolio" />
-  </a>
-  <a href="https://github.com/zahidrahimoon">
-    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github"/>
-  </a>
-  <a href="https://linkedin.com/in/zahidrahimoon">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
-  </a>
+<p align="center">  
+  <a href="https://zahidrahimoon.netlify.app/">  
+    <img src="https://img.shields.io/badge/Portfolio-%230A66C2.svg?&style=for-the-badge&logo=portfolio&logoColor=white" alt="portfolio" />  
+  </a>  
+  <a href="https://github.com/zahidrahimoon">  
+    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github"/>  
+  </a>  
+  <a href="https://linkedin.com/in/zahidrahimoon">  
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>  
+  </a>  
+  <a href="https://github.com/zahidrahimoon/zahidrahimoon/raw/main/resume.pdf">  
+    <img src="https://img.shields.io/badge/Resume-%2312100E.svg?&style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume" />  
+  </a>  
 </p>
 
 
