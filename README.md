@@ -1,8 +1,5 @@
 ![banner](https://github.com/zahidrahimoon/zahidrahimoon/blob/main/banner.png)
 
-
----
-
 <h1 align="center" style="font-family: 'Playfair Display', serif;">Hi 👋, I'm Muhammad Zahid</h1>
 <h3 align="center" style="font-family: 'Playfair Display', serif;">A Passionate MERN Stack Developer from Pakistan</h3>
 
