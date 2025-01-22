@@ -3,9 +3,6 @@
 <h1 align="center" style="font-family: 'Playfair Display', serif;">Hi 👋, I'm Muhammad Zahid</h1>
 <h3 align="center" style="font-family: 'Playfair Display', serif;">A Passionate MERN Stack Developer from Pakistan</h3>
 
-### 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=zahidrahimoon&theme=gruvbox&no-frame=true&margin-w=10&margin-h=10)
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zahidrahimoon&label=Profile%20views&color=blue&style=flat-square" alt="zahidrahimoon profile views" /> 
   <img src="https://img.shields.io/github/followers/zahidrahimoon?label=Followers&style=social" alt="followers" />
@@ -26,6 +23,11 @@
     <img src="https://img.shields.io/badge/Resume-%2312100E.svg?&style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume" />  
   </a>  
 </p>
+
+---
+
+### 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=zahidrahimoon&theme=gruvbox&no-frame=true&margin-w=10&margin-h=10)
 
 ---
 
