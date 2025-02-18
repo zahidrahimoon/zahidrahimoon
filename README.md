@@ -39,7 +39,7 @@
 ### 📈 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zahidrahimoon&show_icons=true&count_private=true&theme=radical" alt="zahidrahimoon stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahidrahimoon&layout=compact&theme=radical&langs_count=15" alt="zahidrahimoon languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahidrahimoon&layout=compact&theme=radical&langs_count=17" alt="zahidrahimoon languages"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zahidrahimoon&theme=radical" alt="zahidrahimoon streak"/>
 </p>
 
