@@ -1,7 +1,7 @@
 ![banner](https://github.com/zahidrahimoon/zahidrahimoon/blob/main/banner.png)
 
 <h1 align="center" style="font-family: 'Playfair Display', serif;">Hi 👋, I'm Muhammad Zahid</h1>
-<h3 align="center" style="font-family: 'Playfair Display', serif;">A Passionate MERN Stack Developer from Pakistan</h3>
+<h3 align="center" style="font-family: 'Playfair Display', serif;">A Passionate MERN Stack Developer from Karachi</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zahidrahimoon&label=Profile%20views&color=0e75b6&style=flat" alt="zahidrahimoon" /> 
