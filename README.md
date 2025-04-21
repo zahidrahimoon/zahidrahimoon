@@ -42,7 +42,7 @@
 ---
 
 ### 🌱 Currently Learning
-
+- ML/AI (LR)
 - MERN Stack Web Development  
 - Advanced TypeScript  
 - API Development & Integration
