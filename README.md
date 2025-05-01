@@ -26,13 +26,6 @@
 
 ---
 
-### 💼 Worked on These Projects
-
-- **[Taj & Brothers](https://tajandbrothers.com/index.html)**
-- **[TecAi](https://tecai.site/login)**
-
---- 
-
 ### 🏆 GitHub Trophies
 
 <p align="center">
@@ -41,11 +34,33 @@
 
 ---
 
-### 🌱 Currently Learning
-- ML/AI (LR)
+<div align="center">
+
+<table width="150%">
+  <tr>
+    <td valign="top" width="40%">
+
+<h3>💼 Projects</h3>
+
+- **[Taj & Brothers](https://tajandbrothers.com/index.html)**
+- **[TecAi](https://tecai.site/login)**
+
+</td>
+    <td valign="top" width="60%">
+
+<h3>🌱 Currently Learning</h3>
+
+- ML/AI (LR)  
 - MERN Stack Web Development  
 - Advanced TypeScript  
 - API Development & Integration
+
+</td>
+  </tr>
+</table>
+
+</div>
+
 
 ---
 
@@ -55,14 +70,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=zahidrahimoon&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahidrahimoon&layout=compact&theme=radical&langs_count=18" alt="Top Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zahidrahimoon&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
-### 🔝 Top Contributed Repos
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=zahidrahimoon&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=zahidrahimoon&limit=3&theme=radical&combine_all_yearly_contributions=true" />
 </p>
 
 ---
