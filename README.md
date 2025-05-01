@@ -81,18 +81,3 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zahidrahimoon&bg_color=0d1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true" alt="GitHub Contribution Graph" />
 </p>
 
----
-
-### 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/zahidrahimoon">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:zahidrahimoon22@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://instagram.com/webdev_with_zahid">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
