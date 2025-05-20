@@ -71,6 +71,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahidrahimoon&layout=compact&theme=radical&langs_count=18" alt="Top Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zahidrahimoon&theme=radical" alt="GitHub Streak" />
   <img src="https://github-contributor-stats.vercel.app/api?username=zahidrahimoon&limit=3&theme=radical&combine_all_yearly_contributions=true" />
+<img src="https://leetcard.jacoblin.cool/zahidrahimoon?theme=light&font=Cousine" width="365" height="150" />
+
 </p>
 
 ---
